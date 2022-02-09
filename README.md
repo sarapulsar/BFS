@@ -12,10 +12,10 @@ _Con esta implementación se intenta comprobar la teoria de los seis grados, el 
 ## ¿Cómo funciona el Programa'
 
 1. _Se toma de referencia un generador de pruebas que crea un archivo .txt, donde se almacena información. Para este ejercicio se considera como base de datos con información de las relaciones de Facebook. A partir de este archivo se logra generar un diccionario, que sirve como entrada para mi programa. También se considera un grafo no dirgido_
-2. _Se obtiene una lista de adyacencias que permite conocer las relaciones que se tienen, donde key corresponde al vertice y val a los adyacentes a el. 
-3. _Finalmente se realiza recorrido por BFS (Breadth First Search) donde se obtiene el nivel y el recorrido que se hizo a los vertices desde un nodo raiz (siempre se toma el primero que se genere en la columnna y fila del diccionario.
-4. _El programa arroja si se puedo comprobar o no la teoria mencionada.
-5._El programa se desarrolla en Python.
+2. _Se obtiene una lista de adyacencias que permite conocer las relaciones que se tienen, donde key corresponde al vertice y val a los adyacentes a el._ 
+3. _Finalmente se realiza recorrido por BFS (Breadth First Search) donde se obtiene el nivel y el recorrido que se hizo a los vertices desde un nodo raiz (siempre se toma el primero que se genere en la columnna y fila del diccionario._
+4. _El programa arroja si se puedo comprobar o no la teoria mencionada._
+5._El programa se desarrolla en Python._
 
 ## Ejemplo de solución
 
